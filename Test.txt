@@ -1,0 +1,10 @@
+#include <iostream> 
+using namespace std; 
+
+int main() {
+	int a = 5, b = 10, sum; 
+	sum = a + b; 
+	cout << sum << endl;
+  	cout << a;
+	return 0; 
+} 
